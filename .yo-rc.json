@@ -37,6 +37,8 @@
     "nativeLanguage": "fr",
     "packageFolder": "com/voiture/app",
     "jwtSecretKey": "YzZmZWYyNTBiOTUxOTczNzZhZjBlY2YxNzA5YjIxNjgzMGJjNmRiZmNkYmIzNTc4YTVkYmI1ZWE3ODBkNmUwNTZlODllYzU2ZGU0NjA1Yzk2ZGNlNjQwMWMxM2FmNzZmZDcyMzJmMzcyNTMzYjI0ZTg1MDQwMTFiYWVlZGQ0ZWQ=",
-    "languages": ["en", "fr"]
+    "languages": ["en", "fr"],
+    "lastLiquibaseTimestamp": 1629614199000,
+    "entities": ["Voiture"]
   }
 }
